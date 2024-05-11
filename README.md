@@ -1,7 +1,7 @@
 # Escolhendo Imóveis
 
 <h1 align="center">
-  <p>Acessar</p>
+  <p>Acessar <a href="https://julianoventola.github.io/proprieties-rent/">aqui</a></p>
   <img width="427" src= "./.github/image01.png">
   <img width="427" src= "./.github/image02.png">
   <img width="427" src= "./.github/image03.png">
