@@ -7,7 +7,7 @@
   <img width="427" src= "./.github/image03.png">
 </h1>
  
-- Projeto desenvolvido com intuito de demonstrar 4 tipo de "imóveis para alugar/comprar",
+- Projeto desenvolvido com intuito de demonstrar 4 tipo de "imóveis para alugar/comprar" e ver as imagens,
   utilizando o mais básico HTML e CSS
 - O site não é responsível justamente por usar uma parte básica das tecnologias
 
